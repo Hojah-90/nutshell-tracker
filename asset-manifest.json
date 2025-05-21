@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nutshell-tracker-v2/static/css/main.f855e6bc.css",
+    "main.js": "/nutshell-tracker-v2/static/js/main.ef5eed78.js",
+    "index.html": "/nutshell-tracker-v2/index.html",
+    "main.f855e6bc.css.map": "/nutshell-tracker-v2/static/css/main.f855e6bc.css.map",
+    "main.ef5eed78.js.map": "/nutshell-tracker-v2/static/js/main.ef5eed78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ef5eed78.js"
+  ]
+}
